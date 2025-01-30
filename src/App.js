@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-// import logo from './devops.png';
+//import logo from './logo.svg';
+ import logo from './devops.png';
 import './App.css';
 
 function App() {
@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello all welcome to React application</h1>
-        {/* <h2>hello all thanks for attending DevOps classes</h2> */}
-        {/* <p>by VSCharan</p>   */}
+        <h2>hello all thanks for attending DevOps classes</h2> 
+        <p>by SANDHYA REDDY</p>   
       </header>
     </div>
   );
